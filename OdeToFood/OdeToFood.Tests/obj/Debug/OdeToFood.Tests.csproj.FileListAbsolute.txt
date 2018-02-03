@@ -1,0 +1,142 @@
+D:\PluralSight Learning\.NET MVC\Intermediate\Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood.Tests\bin\Debug\ApplicationInsights.config
+D:\PluralSight Learning\.NET MVC\Intermediate\Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\PluralSight Learning\.NET MVC\Intermediate\Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\PluralSight Learning\.NET MVC\Intermediate\Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\PluralSight Learning\.NET MVC\Intermediate\Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood.Tests\bin\Debug\OdeToFood.Tests.dll.config
+D:\PluralSight Learning\.NET MVC\Intermediate\Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood.Tests\bin\Debug\OdeToFood.Tests.dll
+D:\PluralSight Learning\.NET MVC\Intermediate\Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood.Tests\bin\Debug\OdeToFood.Tests.pdb
+D:\PluralSight Learning\.NET MVC\Intermediate\Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\PluralSight Learning\.NET MVC\Intermediate\Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\PluralSight Learning\.NET MVC\Intermediate\Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\PluralSight Learning\.NET MVC\Intermediate\Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood.Tests\bin\Debug\Newtonsoft.Json.dll
+D:\PluralSight Learning\.NET MVC\Intermediate\Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood.Tests\bin\Debug\OdeToFood.dll
+D:\PluralSight Learning\.NET MVC\Intermediate\Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood.Tests\bin\Debug\System.Web.Helpers.dll
+D:\PluralSight Learning\.NET MVC\Intermediate\Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood.Tests\bin\Debug\System.Web.Mvc.dll
+D:\PluralSight Learning\.NET MVC\Intermediate\Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood.Tests\bin\Debug\System.Web.Razor.dll
+D:\PluralSight Learning\.NET MVC\Intermediate\Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\PluralSight Learning\.NET MVC\Intermediate\Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood.Tests\bin\Debug\System.Web.WebPages.dll
+D:\PluralSight Learning\.NET MVC\Intermediate\Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+D:\PluralSight Learning\.NET MVC\Intermediate\Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood.Tests\bin\Debug\Microsoft.Owin.dll
+D:\PluralSight Learning\.NET MVC\Intermediate\Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood.Tests\bin\Debug\System.Web.Optimization.dll
+D:\PluralSight Learning\.NET MVC\Intermediate\Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\PluralSight Learning\.NET MVC\Intermediate\Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+D:\PluralSight Learning\.NET MVC\Intermediate\Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood.Tests\bin\Debug\Microsoft.Owin.Security.dll
+D:\PluralSight Learning\.NET MVC\Intermediate\Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood.Tests\bin\Debug\Owin.dll
+D:\PluralSight Learning\.NET MVC\Intermediate\Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\PluralSight Learning\.NET MVC\Intermediate\Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood.Tests\bin\Debug\EntityFramework.dll
+D:\PluralSight Learning\.NET MVC\Intermediate\Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+D:\PluralSight Learning\.NET MVC\Intermediate\Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+D:\PluralSight Learning\.NET MVC\Intermediate\Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood.Tests\bin\Debug\OdeToFood.pdb
+D:\PluralSight Learning\.NET MVC\Intermediate\Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood.Tests\bin\Debug\OdeToFood.dll.config
+D:\PluralSight Learning\.NET MVC\Intermediate\Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\PluralSight Learning\.NET MVC\Intermediate\Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\PluralSight Learning\.NET MVC\Intermediate\Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood.Tests\bin\Debug\Newtonsoft.Json.xml
+D:\PluralSight Learning\.NET MVC\Intermediate\Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood.Tests\bin\Debug\System.Web.Helpers.xml
+D:\PluralSight Learning\.NET MVC\Intermediate\Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood.Tests\bin\Debug\System.Web.Mvc.xml
+D:\PluralSight Learning\.NET MVC\Intermediate\Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood.Tests\bin\Debug\System.Web.Razor.xml
+D:\PluralSight Learning\.NET MVC\Intermediate\Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood.Tests\bin\Debug\System.Web.WebPages.xml
+D:\PluralSight Learning\.NET MVC\Intermediate\Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\PluralSight Learning\.NET MVC\Intermediate\Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+D:\PluralSight Learning\.NET MVC\Intermediate\Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood.Tests\bin\Debug\Microsoft.Owin.xml
+D:\PluralSight Learning\.NET MVC\Intermediate\Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood.Tests\bin\Debug\System.Web.Optimization.xml
+D:\PluralSight Learning\.NET MVC\Intermediate\Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\PluralSight Learning\.NET MVC\Intermediate\Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+D:\PluralSight Learning\.NET MVC\Intermediate\Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood.Tests\bin\Debug\Microsoft.Owin.Security.xml
+D:\PluralSight Learning\.NET MVC\Intermediate\Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\PluralSight Learning\.NET MVC\Intermediate\Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood.Tests\bin\Debug\EntityFramework.xml
+D:\PluralSight Learning\.NET MVC\Intermediate\Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+D:\PluralSight Learning\.NET MVC\Intermediate\Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+D:\PluralSight Learning\.NET MVC\Intermediate\Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood.Tests\obj\Debug\OdeToFood.Tests.csprojResolveAssemblyReference.cache
+D:\PluralSight Learning\.NET MVC\Intermediate\Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood.Tests\obj\Debug\OdeToFood.Tests.csproj.CoreCompileInputs.cache
+D:\PluralSight Learning\.NET MVC\Intermediate\Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood.Tests\obj\Debug\OdeToFood.Tests.dll
+D:\PluralSight Learning\.NET MVC\Intermediate\Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood.Tests\obj\Debug\OdeToFood.Tests.pdb
+C:\PluralSight Learning\1. .NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood.Tests\bin\Debug\ApplicationInsights.config
+C:\PluralSight Learning\1. .NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\PluralSight Learning\1. .NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\PluralSight Learning\1. .NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\PluralSight Learning\1. .NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood.Tests\bin\Debug\OdeToFood.Tests.dll.config
+C:\PluralSight Learning\1. .NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood.Tests\bin\Debug\OdeToFood.Tests.dll
+C:\PluralSight Learning\1. .NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood.Tests\bin\Debug\OdeToFood.Tests.pdb
+C:\PluralSight Learning\1. .NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\PluralSight Learning\1. .NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\PluralSight Learning\1. .NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\PluralSight Learning\1. .NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\PluralSight Learning\1. .NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood.Tests\bin\Debug\OdeToFood.dll
+C:\PluralSight Learning\1. .NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood.Tests\bin\Debug\System.Web.Helpers.dll
+C:\PluralSight Learning\1. .NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood.Tests\bin\Debug\System.Web.Mvc.dll
+C:\PluralSight Learning\1. .NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood.Tests\bin\Debug\System.Web.Razor.dll
+C:\PluralSight Learning\1. .NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\PluralSight Learning\1. .NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood.Tests\bin\Debug\System.Web.WebPages.dll
+C:\PluralSight Learning\1. .NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\PluralSight Learning\1. .NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood.Tests\bin\Debug\Microsoft.Owin.dll
+C:\PluralSight Learning\1. .NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood.Tests\bin\Debug\System.Web.Optimization.dll
+C:\PluralSight Learning\1. .NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\PluralSight Learning\1. .NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\PluralSight Learning\1. .NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood.Tests\bin\Debug\Owin.dll
+C:\PluralSight Learning\1. .NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood.Tests\bin\Debug\EntityFramework.dll
+C:\PluralSight Learning\1. .NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood.Tests\bin\Debug\OdeToFood.pdb
+C:\PluralSight Learning\1. .NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood.Tests\bin\Debug\OdeToFood.dll.config
+C:\PluralSight Learning\1. .NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\PluralSight Learning\1. .NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\PluralSight Learning\1. .NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\PluralSight Learning\1. .NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood.Tests\bin\Debug\System.Web.Helpers.xml
+C:\PluralSight Learning\1. .NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood.Tests\bin\Debug\System.Web.Mvc.xml
+C:\PluralSight Learning\1. .NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood.Tests\bin\Debug\System.Web.Razor.xml
+C:\PluralSight Learning\1. .NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood.Tests\bin\Debug\System.Web.WebPages.xml
+C:\PluralSight Learning\1. .NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\PluralSight Learning\1. .NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\PluralSight Learning\1. .NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood.Tests\bin\Debug\Microsoft.Owin.xml
+C:\PluralSight Learning\1. .NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood.Tests\bin\Debug\System.Web.Optimization.xml
+C:\PluralSight Learning\1. .NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\PluralSight Learning\1. .NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\PluralSight Learning\1. .NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood.Tests\bin\Debug\EntityFramework.xml
+C:\PluralSight Learning\1. .NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood.Tests\obj\Debug\OdeToFood.Tests.csprojResolveAssemblyReference.cache
+C:\PluralSight Learning\1. .NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood.Tests\obj\Debug\OdeToFood.Tests.csproj.CoreCompileInputs.cache
+C:\PluralSight Learning\1. .NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood.Tests\obj\Debug\OdeToFood.Tests.dll
+C:\PluralSight Learning\1. .NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood.Tests\obj\Debug\OdeToFood.Tests.pdb
+D:\PluralSight Learning\.NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood.Tests\bin\Debug\ApplicationInsights.config
+D:\PluralSight Learning\.NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\PluralSight Learning\.NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\PluralSight Learning\.NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\PluralSight Learning\.NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood.Tests\bin\Debug\OdeToFood.Tests.dll.config
+D:\PluralSight Learning\.NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood.Tests\bin\Debug\OdeToFood.Tests.dll
+D:\PluralSight Learning\.NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood.Tests\bin\Debug\OdeToFood.Tests.pdb
+D:\PluralSight Learning\.NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\PluralSight Learning\.NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\PluralSight Learning\.NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\PluralSight Learning\.NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood.Tests\bin\Debug\Newtonsoft.Json.dll
+D:\PluralSight Learning\.NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood.Tests\bin\Debug\OdeToFood.dll
+D:\PluralSight Learning\.NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood.Tests\bin\Debug\System.Web.Helpers.dll
+D:\PluralSight Learning\.NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood.Tests\bin\Debug\System.Web.Mvc.dll
+D:\PluralSight Learning\.NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood.Tests\bin\Debug\System.Web.Razor.dll
+D:\PluralSight Learning\.NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\PluralSight Learning\.NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood.Tests\bin\Debug\System.Web.WebPages.dll
+D:\PluralSight Learning\.NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+D:\PluralSight Learning\.NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood.Tests\bin\Debug\Microsoft.Owin.dll
+D:\PluralSight Learning\.NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood.Tests\bin\Debug\System.Web.Optimization.dll
+D:\PluralSight Learning\.NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood.Tests\bin\Debug\Owin.dll
+D:\PluralSight Learning\.NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\PluralSight Learning\.NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood.Tests\bin\Debug\EntityFramework.dll
+D:\PluralSight Learning\.NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood.Tests\bin\Debug\PagedList.dll
+D:\PluralSight Learning\.NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+D:\PluralSight Learning\.NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood.Tests\bin\Debug\OdeToFood.pdb
+D:\PluralSight Learning\.NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood.Tests\bin\Debug\OdeToFood.dll.config
+D:\PluralSight Learning\.NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\PluralSight Learning\.NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\PluralSight Learning\.NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood.Tests\bin\Debug\Newtonsoft.Json.xml
+D:\PluralSight Learning\.NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood.Tests\bin\Debug\System.Web.Helpers.xml
+D:\PluralSight Learning\.NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood.Tests\bin\Debug\System.Web.Mvc.xml
+D:\PluralSight Learning\.NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood.Tests\bin\Debug\System.Web.Razor.xml
+D:\PluralSight Learning\.NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood.Tests\bin\Debug\System.Web.WebPages.xml
+D:\PluralSight Learning\.NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\PluralSight Learning\.NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+D:\PluralSight Learning\.NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood.Tests\bin\Debug\Microsoft.Owin.xml
+D:\PluralSight Learning\.NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood.Tests\bin\Debug\System.Web.Optimization.xml
+D:\PluralSight Learning\.NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\PluralSight Learning\.NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood.Tests\bin\Debug\EntityFramework.xml
+D:\PluralSight Learning\.NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood.Tests\bin\Debug\PagedList.xml
+D:\PluralSight Learning\.NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+D:\PluralSight Learning\.NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood.Tests\obj\Debug\OdeToFood.Tests.csprojResolveAssemblyReference.cache
+D:\PluralSight Learning\.NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood.Tests\obj\Debug\OdeToFood.Tests.csproj.CoreCompileInputs.cache
+D:\PluralSight Learning\.NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood.Tests\obj\Debug\OdeToFood.Tests.dll
+D:\PluralSight Learning\.NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood.Tests\obj\Debug\OdeToFood.Tests.pdb

@@ -1,0 +1,291 @@
+D:\PluralSight Learning\.NET MVC\Intermediate\Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\ApplicationInsights.config
+D:\PluralSight Learning\.NET MVC\Intermediate\Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\OdeToFood.dll.config
+D:\PluralSight Learning\.NET MVC\Intermediate\Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\OdeToFood.dll
+D:\PluralSight Learning\.NET MVC\Intermediate\Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\OdeToFood.pdb
+D:\PluralSight Learning\.NET MVC\Intermediate\Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\Antlr3.Runtime.dll
+D:\PluralSight Learning\.NET MVC\Intermediate\Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\EntityFramework.dll
+D:\PluralSight Learning\.NET MVC\Intermediate\Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\EntityFramework.SqlServer.dll
+D:\PluralSight Learning\.NET MVC\Intermediate\Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\Microsoft.AI.Agent.Intercept.dll
+D:\PluralSight Learning\.NET MVC\Intermediate\Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\Microsoft.AI.DependencyCollector.dll
+D:\PluralSight Learning\.NET MVC\Intermediate\Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\PluralSight Learning\.NET MVC\Intermediate\Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\PluralSight Learning\.NET MVC\Intermediate\Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\Microsoft.AI.Web.dll
+D:\PluralSight Learning\.NET MVC\Intermediate\Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\Microsoft.AI.WindowsServer.dll
+D:\PluralSight Learning\.NET MVC\Intermediate\Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\Microsoft.ApplicationInsights.dll
+D:\PluralSight Learning\.NET MVC\Intermediate\Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\Microsoft.AspNet.Identity.Core.dll
+D:\PluralSight Learning\.NET MVC\Intermediate\Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\PluralSight Learning\.NET MVC\Intermediate\Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\PluralSight Learning\.NET MVC\Intermediate\Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\PluralSight Learning\.NET MVC\Intermediate\Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\Microsoft.Owin.dll
+D:\PluralSight Learning\.NET MVC\Intermediate\Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\PluralSight Learning\.NET MVC\Intermediate\Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\Microsoft.Owin.Security.Cookies.dll
+D:\PluralSight Learning\.NET MVC\Intermediate\Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\Microsoft.Owin.Security.dll
+D:\PluralSight Learning\.NET MVC\Intermediate\Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\Microsoft.Owin.Security.Facebook.dll
+D:\PluralSight Learning\.NET MVC\Intermediate\Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\Microsoft.Owin.Security.Google.dll
+D:\PluralSight Learning\.NET MVC\Intermediate\Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\PluralSight Learning\.NET MVC\Intermediate\Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\Microsoft.Owin.Security.OAuth.dll
+D:\PluralSight Learning\.NET MVC\Intermediate\Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\Microsoft.Owin.Security.Twitter.dll
+D:\PluralSight Learning\.NET MVC\Intermediate\Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\Microsoft.Web.Infrastructure.dll
+D:\PluralSight Learning\.NET MVC\Intermediate\Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\Newtonsoft.Json.dll
+D:\PluralSight Learning\.NET MVC\Intermediate\Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\Owin.dll
+D:\PluralSight Learning\.NET MVC\Intermediate\Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\System.Web.Helpers.dll
+D:\PluralSight Learning\.NET MVC\Intermediate\Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\System.Web.Mvc.dll
+D:\PluralSight Learning\.NET MVC\Intermediate\Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\System.Web.Optimization.dll
+D:\PluralSight Learning\.NET MVC\Intermediate\Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\System.Web.Razor.dll
+D:\PluralSight Learning\.NET MVC\Intermediate\Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\System.Web.WebPages.Deployment.dll
+D:\PluralSight Learning\.NET MVC\Intermediate\Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\System.Web.WebPages.dll
+D:\PluralSight Learning\.NET MVC\Intermediate\Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\System.Web.WebPages.Razor.dll
+D:\PluralSight Learning\.NET MVC\Intermediate\Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\WebGrease.dll
+D:\PluralSight Learning\.NET MVC\Intermediate\Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\PluralSight Learning\.NET MVC\Intermediate\Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\System.Web.Helpers.xml
+D:\PluralSight Learning\.NET MVC\Intermediate\Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\System.Web.Mvc.xml
+D:\PluralSight Learning\.NET MVC\Intermediate\Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\System.Web.Optimization.xml
+D:\PluralSight Learning\.NET MVC\Intermediate\Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\System.Web.Razor.xml
+D:\PluralSight Learning\.NET MVC\Intermediate\Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\System.Web.WebPages.xml
+D:\PluralSight Learning\.NET MVC\Intermediate\Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\System.Web.WebPages.Deployment.xml
+D:\PluralSight Learning\.NET MVC\Intermediate\Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\System.Web.WebPages.Razor.xml
+D:\PluralSight Learning\.NET MVC\Intermediate\Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\Antlr3.Runtime.pdb
+D:\PluralSight Learning\.NET MVC\Intermediate\Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\Newtonsoft.Json.xml
+D:\PluralSight Learning\.NET MVC\Intermediate\Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\EntityFramework.xml
+D:\PluralSight Learning\.NET MVC\Intermediate\Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\EntityFramework.SqlServer.xml
+D:\PluralSight Learning\.NET MVC\Intermediate\Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\Microsoft.AspNet.Identity.Core.xml
+D:\PluralSight Learning\.NET MVC\Intermediate\Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\PluralSight Learning\.NET MVC\Intermediate\Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\PluralSight Learning\.NET MVC\Intermediate\Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\Microsoft.Owin.xml
+D:\PluralSight Learning\.NET MVC\Intermediate\Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\PluralSight Learning\.NET MVC\Intermediate\Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\Microsoft.Owin.Security.xml
+D:\PluralSight Learning\.NET MVC\Intermediate\Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\Microsoft.Owin.Security.Facebook.xml
+D:\PluralSight Learning\.NET MVC\Intermediate\Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\Microsoft.Owin.Security.Cookies.xml
+D:\PluralSight Learning\.NET MVC\Intermediate\Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\Microsoft.Owin.Security.OAuth.xml
+D:\PluralSight Learning\.NET MVC\Intermediate\Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\Microsoft.Owin.Security.Google.xml
+D:\PluralSight Learning\.NET MVC\Intermediate\Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\Microsoft.Owin.Security.Twitter.xml
+D:\PluralSight Learning\.NET MVC\Intermediate\Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\PluralSight Learning\.NET MVC\Intermediate\Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\Microsoft.ApplicationInsights.xml
+D:\PluralSight Learning\.NET MVC\Intermediate\Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\Microsoft.AI.DependencyCollector.xml
+D:\PluralSight Learning\.NET MVC\Intermediate\Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\PluralSight Learning\.NET MVC\Intermediate\Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\Microsoft.AI.WindowsServer.xml
+D:\PluralSight Learning\.NET MVC\Intermediate\Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\Microsoft.AI.Web.xml
+D:\PluralSight Learning\.NET MVC\Intermediate\Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\obj\Debug\OdeToFood.csproj.CoreCompileInputs.cache
+D:\PluralSight Learning\.NET MVC\Intermediate\Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\obj\Debug\OdeToFood.dll
+D:\PluralSight Learning\.NET MVC\Intermediate\Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\obj\Debug\OdeToFood.pdb
+C:\PluralSight Learning\1. .NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\ApplicationInsights.config
+C:\PluralSight Learning\1. .NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\OdeToFood.dll.config
+C:\PluralSight Learning\1. .NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\OdeToFood.dll
+C:\PluralSight Learning\1. .NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\OdeToFood.pdb
+C:\PluralSight Learning\1. .NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\Antlr3.Runtime.dll
+C:\PluralSight Learning\1. .NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\EntityFramework.dll
+C:\PluralSight Learning\1. .NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\EntityFramework.SqlServer.dll
+C:\PluralSight Learning\1. .NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\Microsoft.AI.Agent.Intercept.dll
+C:\PluralSight Learning\1. .NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\Microsoft.AI.DependencyCollector.dll
+C:\PluralSight Learning\1. .NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\PluralSight Learning\1. .NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\PluralSight Learning\1. .NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\Microsoft.AI.Web.dll
+C:\PluralSight Learning\1. .NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\Microsoft.AI.WindowsServer.dll
+C:\PluralSight Learning\1. .NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\Microsoft.ApplicationInsights.dll
+C:\PluralSight Learning\1. .NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\Microsoft.AspNet.Identity.Core.dll
+C:\PluralSight Learning\1. .NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\PluralSight Learning\1. .NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\PluralSight Learning\1. .NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\PluralSight Learning\1. .NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\Microsoft.Owin.dll
+C:\PluralSight Learning\1. .NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\PluralSight Learning\1. .NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\Microsoft.Owin.Security.Cookies.dll
+C:\PluralSight Learning\1. .NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\Microsoft.Owin.Security.dll
+C:\PluralSight Learning\1. .NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\Microsoft.Owin.Security.Facebook.dll
+C:\PluralSight Learning\1. .NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\Microsoft.Owin.Security.Google.dll
+C:\PluralSight Learning\1. .NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\PluralSight Learning\1. .NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\Microsoft.Owin.Security.OAuth.dll
+C:\PluralSight Learning\1. .NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\Microsoft.Owin.Security.Twitter.dll
+C:\PluralSight Learning\1. .NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\Microsoft.Web.Infrastructure.dll
+C:\PluralSight Learning\1. .NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\Newtonsoft.Json.dll
+C:\PluralSight Learning\1. .NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\Owin.dll
+C:\PluralSight Learning\1. .NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\System.Web.Helpers.dll
+C:\PluralSight Learning\1. .NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\System.Web.Mvc.dll
+C:\PluralSight Learning\1. .NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\System.Web.Optimization.dll
+C:\PluralSight Learning\1. .NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\System.Web.Razor.dll
+C:\PluralSight Learning\1. .NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\System.Web.WebPages.Deployment.dll
+C:\PluralSight Learning\1. .NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\System.Web.WebPages.dll
+C:\PluralSight Learning\1. .NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\System.Web.WebPages.Razor.dll
+C:\PluralSight Learning\1. .NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\WebGrease.dll
+C:\PluralSight Learning\1. .NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\PluralSight Learning\1. .NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\System.Web.Helpers.xml
+C:\PluralSight Learning\1. .NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\System.Web.Mvc.xml
+C:\PluralSight Learning\1. .NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\System.Web.Optimization.xml
+C:\PluralSight Learning\1. .NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\System.Web.Razor.xml
+C:\PluralSight Learning\1. .NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\System.Web.WebPages.xml
+C:\PluralSight Learning\1. .NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\System.Web.WebPages.Deployment.xml
+C:\PluralSight Learning\1. .NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\System.Web.WebPages.Razor.xml
+C:\PluralSight Learning\1. .NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\Antlr3.Runtime.pdb
+C:\PluralSight Learning\1. .NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\Newtonsoft.Json.xml
+C:\PluralSight Learning\1. .NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\EntityFramework.xml
+C:\PluralSight Learning\1. .NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\EntityFramework.SqlServer.xml
+C:\PluralSight Learning\1. .NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\Microsoft.AspNet.Identity.Core.xml
+C:\PluralSight Learning\1. .NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\PluralSight Learning\1. .NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\PluralSight Learning\1. .NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\Microsoft.Owin.xml
+C:\PluralSight Learning\1. .NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\PluralSight Learning\1. .NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\Microsoft.Owin.Security.xml
+C:\PluralSight Learning\1. .NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\Microsoft.Owin.Security.Facebook.xml
+C:\PluralSight Learning\1. .NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\Microsoft.Owin.Security.Cookies.xml
+C:\PluralSight Learning\1. .NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\Microsoft.Owin.Security.OAuth.xml
+C:\PluralSight Learning\1. .NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\Microsoft.Owin.Security.Google.xml
+C:\PluralSight Learning\1. .NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\Microsoft.Owin.Security.Twitter.xml
+C:\PluralSight Learning\1. .NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\PluralSight Learning\1. .NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\Microsoft.ApplicationInsights.xml
+C:\PluralSight Learning\1. .NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\Microsoft.AI.DependencyCollector.xml
+C:\PluralSight Learning\1. .NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\PluralSight Learning\1. .NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\Microsoft.AI.WindowsServer.xml
+C:\PluralSight Learning\1. .NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\Microsoft.AI.Web.xml
+C:\PluralSight Learning\1. .NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\obj\Debug\OdeToFood.csproj.CoreCompileInputs.cache
+C:\PluralSight Learning\1. .NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\obj\Debug\OdeToFood.dll
+C:\PluralSight Learning\1. .NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\obj\Debug\OdeToFood.pdb
+C:\PluralSight Learning\1. .NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\obj\Debug\OdeToFood.csprojResolveAssemblyReference.cache
+D:\PluralSight Learning\.NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\ApplicationInsights.config
+D:\PluralSight Learning\.NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\OdeToFood.dll.config
+D:\PluralSight Learning\.NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\OdeToFood.dll
+D:\PluralSight Learning\.NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\OdeToFood.pdb
+D:\PluralSight Learning\.NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\Antlr3.Runtime.dll
+D:\PluralSight Learning\.NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\EntityFramework.dll
+D:\PluralSight Learning\.NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\EntityFramework.SqlServer.dll
+D:\PluralSight Learning\.NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\Microsoft.AI.Agent.Intercept.dll
+D:\PluralSight Learning\.NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\Microsoft.AI.DependencyCollector.dll
+D:\PluralSight Learning\.NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\PluralSight Learning\.NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\PluralSight Learning\.NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\Microsoft.AI.Web.dll
+D:\PluralSight Learning\.NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\Microsoft.AI.WindowsServer.dll
+D:\PluralSight Learning\.NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\Microsoft.ApplicationInsights.dll
+D:\PluralSight Learning\.NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\Microsoft.AspNet.Identity.Core.dll
+D:\PluralSight Learning\.NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\PluralSight Learning\.NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\PluralSight Learning\.NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\PluralSight Learning\.NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\Microsoft.Owin.dll
+D:\PluralSight Learning\.NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\PluralSight Learning\.NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\Microsoft.Owin.Security.Cookies.dll
+D:\PluralSight Learning\.NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\Microsoft.Owin.Security.dll
+D:\PluralSight Learning\.NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\Microsoft.Owin.Security.Facebook.dll
+D:\PluralSight Learning\.NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\Microsoft.Owin.Security.Google.dll
+D:\PluralSight Learning\.NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\PluralSight Learning\.NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\Microsoft.Owin.Security.OAuth.dll
+D:\PluralSight Learning\.NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\Microsoft.Owin.Security.Twitter.dll
+D:\PluralSight Learning\.NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\Microsoft.Web.Infrastructure.dll
+D:\PluralSight Learning\.NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\Newtonsoft.Json.dll
+D:\PluralSight Learning\.NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\Owin.dll
+D:\PluralSight Learning\.NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\System.Web.Helpers.dll
+D:\PluralSight Learning\.NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\System.Web.Mvc.dll
+D:\PluralSight Learning\.NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\System.Web.Optimization.dll
+D:\PluralSight Learning\.NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\System.Web.Razor.dll
+D:\PluralSight Learning\.NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\System.Web.WebPages.Deployment.dll
+D:\PluralSight Learning\.NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\System.Web.WebPages.dll
+D:\PluralSight Learning\.NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\System.Web.WebPages.Razor.dll
+D:\PluralSight Learning\.NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\WebGrease.dll
+D:\PluralSight Learning\.NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\PluralSight Learning\.NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\System.Web.Helpers.xml
+D:\PluralSight Learning\.NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\System.Web.Mvc.xml
+D:\PluralSight Learning\.NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\System.Web.Optimization.xml
+D:\PluralSight Learning\.NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\System.Web.Razor.xml
+D:\PluralSight Learning\.NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\System.Web.WebPages.xml
+D:\PluralSight Learning\.NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\System.Web.WebPages.Deployment.xml
+D:\PluralSight Learning\.NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\System.Web.WebPages.Razor.xml
+D:\PluralSight Learning\.NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\Antlr3.Runtime.pdb
+D:\PluralSight Learning\.NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\Newtonsoft.Json.xml
+D:\PluralSight Learning\.NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\EntityFramework.xml
+D:\PluralSight Learning\.NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\EntityFramework.SqlServer.xml
+D:\PluralSight Learning\.NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\Microsoft.AspNet.Identity.Core.xml
+D:\PluralSight Learning\.NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\PluralSight Learning\.NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\PluralSight Learning\.NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\Microsoft.Owin.xml
+D:\PluralSight Learning\.NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\PluralSight Learning\.NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\Microsoft.Owin.Security.xml
+D:\PluralSight Learning\.NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\Microsoft.Owin.Security.Facebook.xml
+D:\PluralSight Learning\.NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\Microsoft.Owin.Security.Cookies.xml
+D:\PluralSight Learning\.NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\Microsoft.Owin.Security.OAuth.xml
+D:\PluralSight Learning\.NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\Microsoft.Owin.Security.Google.xml
+D:\PluralSight Learning\.NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\Microsoft.Owin.Security.Twitter.xml
+D:\PluralSight Learning\.NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\PluralSight Learning\.NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\Microsoft.ApplicationInsights.xml
+D:\PluralSight Learning\.NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\Microsoft.AI.DependencyCollector.xml
+D:\PluralSight Learning\.NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\PluralSight Learning\.NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\Microsoft.AI.WindowsServer.xml
+D:\PluralSight Learning\.NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\Microsoft.AI.Web.xml
+D:\PluralSight Learning\.NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\obj\Debug\OdeToFood.csprojResolveAssemblyReference.cache
+D:\PluralSight Learning\.NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\obj\Debug\OdeToFood.csproj.CoreCompileInputs.cache
+D:\PluralSight Learning\.NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\obj\Debug\OdeToFood.dll
+D:\PluralSight Learning\.NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\obj\Debug\OdeToFood.pdb
+D:\PluralSight Learning\.NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\PagedList.dll
+D:\PluralSight Learning\.NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\PagedList.Mvc.dll
+D:\PluralSight Learning\.NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\PagedList.xml
+D:\PluralSight Learning\.NET MVC\Intermediate\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\PagedList.Mvc.xml
+C:\PluralSight Learning\1. .NET MVC\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\ApplicationInsights.config
+C:\PluralSight Learning\1. .NET MVC\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\OdeToFood.dll.config
+C:\PluralSight Learning\1. .NET MVC\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\OdeToFood.dll
+C:\PluralSight Learning\1. .NET MVC\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\OdeToFood.pdb
+C:\PluralSight Learning\1. .NET MVC\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\Antlr3.Runtime.dll
+C:\PluralSight Learning\1. .NET MVC\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\EntityFramework.dll
+C:\PluralSight Learning\1. .NET MVC\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\EntityFramework.SqlServer.dll
+C:\PluralSight Learning\1. .NET MVC\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\Microsoft.AI.Agent.Intercept.dll
+C:\PluralSight Learning\1. .NET MVC\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\Microsoft.AI.DependencyCollector.dll
+C:\PluralSight Learning\1. .NET MVC\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\PluralSight Learning\1. .NET MVC\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\PluralSight Learning\1. .NET MVC\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\Microsoft.AI.Web.dll
+C:\PluralSight Learning\1. .NET MVC\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\Microsoft.AI.WindowsServer.dll
+C:\PluralSight Learning\1. .NET MVC\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\Microsoft.ApplicationInsights.dll
+C:\PluralSight Learning\1. .NET MVC\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\Microsoft.AspNet.Identity.Core.dll
+C:\PluralSight Learning\1. .NET MVC\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\PluralSight Learning\1. .NET MVC\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\PluralSight Learning\1. .NET MVC\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\PluralSight Learning\1. .NET MVC\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\Microsoft.Owin.dll
+C:\PluralSight Learning\1. .NET MVC\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\PluralSight Learning\1. .NET MVC\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\Microsoft.Owin.Security.Cookies.dll
+C:\PluralSight Learning\1. .NET MVC\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\Microsoft.Owin.Security.dll
+C:\PluralSight Learning\1. .NET MVC\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\Microsoft.Owin.Security.Facebook.dll
+C:\PluralSight Learning\1. .NET MVC\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\Microsoft.Owin.Security.Google.dll
+C:\PluralSight Learning\1. .NET MVC\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\PluralSight Learning\1. .NET MVC\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\Microsoft.Owin.Security.OAuth.dll
+C:\PluralSight Learning\1. .NET MVC\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\Microsoft.Owin.Security.Twitter.dll
+C:\PluralSight Learning\1. .NET MVC\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\Microsoft.Web.Infrastructure.dll
+C:\PluralSight Learning\1. .NET MVC\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\Newtonsoft.Json.dll
+C:\PluralSight Learning\1. .NET MVC\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\Owin.dll
+C:\PluralSight Learning\1. .NET MVC\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\PagedList.dll
+C:\PluralSight Learning\1. .NET MVC\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\PagedList.Mvc.dll
+C:\PluralSight Learning\1. .NET MVC\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\System.Web.Helpers.dll
+C:\PluralSight Learning\1. .NET MVC\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\System.Web.Mvc.dll
+C:\PluralSight Learning\1. .NET MVC\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\System.Web.Optimization.dll
+C:\PluralSight Learning\1. .NET MVC\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\System.Web.Razor.dll
+C:\PluralSight Learning\1. .NET MVC\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\System.Web.WebPages.Deployment.dll
+C:\PluralSight Learning\1. .NET MVC\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\System.Web.WebPages.dll
+C:\PluralSight Learning\1. .NET MVC\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\System.Web.WebPages.Razor.dll
+C:\PluralSight Learning\1. .NET MVC\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\WebGrease.dll
+C:\PluralSight Learning\1. .NET MVC\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\PluralSight Learning\1. .NET MVC\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\PagedList.xml
+C:\PluralSight Learning\1. .NET MVC\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\PagedList.Mvc.xml
+C:\PluralSight Learning\1. .NET MVC\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\System.Web.Helpers.xml
+C:\PluralSight Learning\1. .NET MVC\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\System.Web.Mvc.xml
+C:\PluralSight Learning\1. .NET MVC\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\System.Web.Optimization.xml
+C:\PluralSight Learning\1. .NET MVC\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\System.Web.Razor.xml
+C:\PluralSight Learning\1. .NET MVC\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\System.Web.WebPages.xml
+C:\PluralSight Learning\1. .NET MVC\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\System.Web.WebPages.Deployment.xml
+C:\PluralSight Learning\1. .NET MVC\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\System.Web.WebPages.Razor.xml
+C:\PluralSight Learning\1. .NET MVC\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\Antlr3.Runtime.pdb
+C:\PluralSight Learning\1. .NET MVC\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\Newtonsoft.Json.xml
+C:\PluralSight Learning\1. .NET MVC\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\EntityFramework.xml
+C:\PluralSight Learning\1. .NET MVC\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\EntityFramework.SqlServer.xml
+C:\PluralSight Learning\1. .NET MVC\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\Microsoft.AspNet.Identity.Core.xml
+C:\PluralSight Learning\1. .NET MVC\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\PluralSight Learning\1. .NET MVC\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\PluralSight Learning\1. .NET MVC\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\Microsoft.Owin.xml
+C:\PluralSight Learning\1. .NET MVC\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\PluralSight Learning\1. .NET MVC\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\Microsoft.Owin.Security.xml
+C:\PluralSight Learning\1. .NET MVC\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\Microsoft.Owin.Security.Facebook.xml
+C:\PluralSight Learning\1. .NET MVC\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\Microsoft.Owin.Security.Cookies.xml
+C:\PluralSight Learning\1. .NET MVC\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\Microsoft.Owin.Security.OAuth.xml
+C:\PluralSight Learning\1. .NET MVC\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\Microsoft.Owin.Security.Google.xml
+C:\PluralSight Learning\1. .NET MVC\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\Microsoft.Owin.Security.Twitter.xml
+C:\PluralSight Learning\1. .NET MVC\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\PluralSight Learning\1. .NET MVC\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\Microsoft.ApplicationInsights.xml
+C:\PluralSight Learning\1. .NET MVC\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\Microsoft.AI.DependencyCollector.xml
+C:\PluralSight Learning\1. .NET MVC\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\PluralSight Learning\1. .NET MVC\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\Microsoft.AI.WindowsServer.xml
+C:\PluralSight Learning\1. .NET MVC\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\bin\Microsoft.AI.Web.xml
+C:\PluralSight Learning\1. .NET MVC\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\obj\Debug\OdeToFood.csprojResolveAssemblyReference.cache
+C:\PluralSight Learning\1. .NET MVC\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\obj\Debug\OdeToFood.csproj.CoreCompileInputs.cache
+C:\PluralSight Learning\1. .NET MVC\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\obj\Debug\OdeToFood.dll
+C:\PluralSight Learning\1. .NET MVC\1. Building Applications with ASP.NET MVC 4\OdeToFood\OdeToFood\obj\Debug\OdeToFood.pdb
