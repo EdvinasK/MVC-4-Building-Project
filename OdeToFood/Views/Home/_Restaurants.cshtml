@@ -1,0 +1,19 @@
+﻿@model IPagedList<RestaurantListViewModel>
+
+<div id="restaurantList">
+
+    <div class="pagedList" data-otf-target="#restaurantList">
+        @* Second parameter gets what page was clicked and sends page number to the specified action. There are more options for the pager.*@
+        @Html.PagedListPager(Model, page => Url.Action("Index", new { page }), PagedListRenderOptions.MinimalWithPageCountText)
+    </div>
+
+    @foreach (var item in Model)
+    {
+        <div>
+            <h4>@Html.ActionLink(item.Name, "Index", "Reviews", new { id = item.Id }, null)  </h4>
+            <div>@item.City, @item.Country</div>
+            <div>Reviews: @item.CountOfReviews</div>
+            <hr />
+        </div>
+    }
+</div>

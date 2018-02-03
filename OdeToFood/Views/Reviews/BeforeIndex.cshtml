@@ -1,0 +1,22 @@
+﻿@model IEnumerable<OdeToFood.Models.RestaurantReview>
+
+@{
+    ViewBag.Title = "The Latest Reviews";
+}
+
+<h2>The Latest Reviews</h2>
+
+@section featured{
+    <div>
+        We are showing the latest @Model.Count() reviews.
+    </div>
+    <div>
+        Project is located in: @VirtualPath
+    </div>
+    }
+
+
+@foreach( var item in Model)
+{
+    @Html.Partial("_Review", item)
+}
